@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">14_25_Latihan4_RecyclerView</string>
+    <string name="tampil_List">List View</string>
+    <string name="name">Name</string>
+    <string name="description">Description</string>
+    <string-array name="data_name">
+        <item>Pulau Mubut</item>
+        <item>Ocarina Batam Theme Park</item>
+        <item>Pulau Ranoh</item>
+        <item>Kepri Coral Batam</item>
+        <item>Funtasy Island</item>
+        <item>Pantai Sulamadaha</item>
+        <item>THol Sulamadaha</item>
+        <item>Pantai Tobololo</item>
+        <item>Danau Laguna</item>
+        <item>Batu Angus</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>
+            Pulau Mubut adalah surga tersembunyi di Batam. Dengan pantai yang tidak berpenghuni, pulau ini menawarkan pengalaman alam yang otentik. Anda dapat merasakan nuansa pulau tropis yang alami dengan berjalan di pasir putih sambil menikmati ombak dan matahari terbenam yang indah di sore hari.
+        </item>
+        <item>
+            Bagi Anda yang mencari keseruan dan hiburan, Ocarina Batam Theme Park adalah tempat yang tepat. Di taman bermain ini, Anda akan menemukan berbagai wahana menarik, seperti water park, kiddy land, giant wheel, hingga trampolin. Cocok untuk dijadikan destinasi wisata keluarga.
+        </item>
+        <item>
+            Pulau Ranoh adalah surga tropis yang tak boleh dilewatkan. Dengan pantai berpasir putih yang memesona, air laut berwarna biru yang jernih, dan pemandangan alam yang menakjubkan, pulau ini menjadi tempat yang wajib Anda kunjungi untuk bersantai dan menikmati keindahan alam.
+        </item>
+        <item>
+            Jelajahi keindahan bawah laut di Kepri Coral Batam. Tempat wisata ini menawarkan panorama terumbu karang yang menakjubkan dan keanekaragaman biota laut. Anda juga dapat melihat berbagai ikan berwarna-warni yang berenang di sekitar terumbu karang.
+        </item>
+        <item>
+            Funtasy Island adalah destinasi wisata alam yang menarik dengan tiga area utama, yaitu Eco Theme Park, Lover Island, dan Beach Club. Dari kegiatan di pantai hingga menyaksikan lumba-lumba dari dekat, tempat ini menawarkan pengalaman wisata yang berbeda dan mengasyikkan.
+        </item>
+        <item>
+             Pantai berpasir hitam yang eksotis ini dekat dengan Pulau Hiri, salah satu spot diving populer di Ternate. Selain eksotis karena pasir hitam lembutnya, pantai ini juga memiliki pemandangan pegunungan dan pulau-pulau di seberangnya. Wisatawan bisa menikmati perjalanan melintasi pulau menggunakan kapal-kapal bermesin milik masyarakat. Warga sekitar juga banyak menjajakan kudapan tradisional di sisi pantai, yang tentunya bisa dicoba wisatawan.
+         </item>
+        <item>
+            Hol Sulamadaha merupakan teluk yang bersebelahan dengan obyek wisata Pantai Sulamadaha, bisa ditempuh hanya dengan 10 menit berjalan kaki dari sana. Keduanya terletak 14 kilometer dari pusat Kota Ternate.
+        </item>
+        <item>
+            Ini adalah satu-satunya pantai yang memiliki pasir putih di Pulau Ternate. Berlokasi di Jalan Batu Angus, Kecamatan Togafo, Kota Ternate, Maluku Utara. Uniknya di sini terdapat sumber air panas yang tak jauh dari bibir pantai.
+        </item>
+        <item>
+            Danau Laguna terletak di Desa Ngade, Kelurahan Fitu, Kecamatan Kota Ternate Selatan, Provinsi Maluku Utara. Berjarak sekitar 18 kilometer dari pusat Kota Ternate. Tempat ini kerap disebut Danau Ngade.
+        </item>
+        <item>
+            Wisata ini merupakan perbukitan yang berada di Jalan Batu Angus, Tobololo, Kota Ternate, Maluku Utara. Uniknya dataran tinggi ini terbangun dari kumpulan bebatuan dari lahar panas Gunung Gamalama yang meletus pada tahun 1673. Wujudnya seperti stalaktit hitam yang muncul dari dalam bumi.
+        </item>
+
+    </string-array>
+    <string-array name="data_photo">
+        <item>https://www.batamnews.co.id/kcfinder/upload/images/pulau%20mubud%20batam.jpg</item>
+        <item>https://storage.googleapis.com/seo-cms/assets/Wahana_360_Madness_cbb56cf923/Wahana_360_Madness_cbb56cf923.jpg</item>
+        <item>https://www.hariankepri.com/wp-content/uploads/2024/02/IMG-20240211-WA0037-jpg.webp</item>
+        <item>https://www.hariankepri.com/wp-content/uploads/2021/10/Screenshot_2021-10.jpg</item>
+        <item>https://www.batamnews.co.id/foto_berita//15Funtasy-Island-Batam.jpg</item>
+        <item>https://cdn-1.timesmedia.co.id/images/2024/07/21/Pantai-Sulamadaha-terletak.jpg</item>
+        <item>https://asset.kompas.com/crops/XzM8KnrowalkpHD2magoMpBhg_Q=/0x0:585x390/750x500/data/photo/2014/04/24/1547280pantai-ternate780x390.jpg</item>
+        <item>https://static.promediateknologi.id/crop/0x0:0x0/0x0/webp/photo/p2/150/2024/07/13/F-PANTAI-AMPENAN-3353029207.jpg</item>
+        <item>https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_640/v1513154539/DSC_9506_leqpdt.jpg</item>
+        <item>https://asset.kompas.com/crops/oi9FjpQzvxq0goor4S8Vyw7ktHw=/81x0:666x390/750x500/data/photo/2016/01/19/1657118Wisata-Batu-Angus780x390.JPG</item>
+    </string-array>
+    <string name="tampil_list">List View</string>
+    <string name="tampil_grid">Grid View</string>
+    <string name="tampil_card_view">Card View</string>
+</resources>
